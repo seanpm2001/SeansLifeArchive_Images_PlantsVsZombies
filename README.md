@@ -1,13 +1,13 @@
 
 ***
 
-# <projectName>
+# Plants Vs Zombies
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Plants_vs_Zombies_logo.png)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](PopcapGamesLogo.jpeg)
 
 ### Top
 
@@ -17,9 +17,9 @@
 
 ## Read this article in a different language
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+[ar عربى](/.github/README_AR.md) [zh-t 中國傳統的）](/.github/README_ZH-T.md)[**en-us**](README.md) [fr français](/.github/README_FR.md) [de Deutsch](/.github/README_DE.md) [EO Esperanto](/.github/README_EO.md)  [ja 日本語](/.github/README_JA.md) [ko-south 韓國語](/.github/README_KO_SOUTH.md) [pl polski](/.github/README_PL.md) [ru русский](/.github/README_RU.md) [es en español](/.github/README_ES.md)
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/SeansLifeArchive_Images_PlantsVsZombies/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 ***
 
@@ -27,13 +27,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#PlantsVsZombies)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#SeansLifeArchive_Images_PlantsVsZombies)
 
 [02.0 - About](#About)
 
@@ -71,20 +71,20 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# <repoName>
-<repo_description>
-
+# SeansLifeArchive_Images_PlantsVsZombies
+The module for my life story project that contains my Plants Vs Zombies Gameplay images. 
+ 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This repository is here to house my Plants Vs Zombies gameplay images when I get the game running again.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Images_PlantsVsZombies/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -130,7 +130,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is not allowed for others, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 23 commits (As of Tuesday, March 30th 2021 at 5:28 pm)
 
 > * 2. No other contributers.
 
@@ -200,9 +200,9 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file](PROJECT_LANG.cob)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/SeansLifeArchive_Images_PlantsVsZombies/discussions)
 
 No other resources at the moment.
 
@@ -220,9 +220,9 @@ Contributing is not allowed for this project, as this is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 8:01 pm)`
+File version: `1 (Tuesday, March 30th 2021 at 5:28 pm)`
 
-Line count: `0,296`
+Line count: `0,302`
 
 ***
 
@@ -268,11 +268,17 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (Tuesday, March 30th 2021 at 5:28 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added the correct logos
+
+> * Updated template data
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
